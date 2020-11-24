@@ -1,0 +1,21 @@
+ch-3
+Data Mining Functionalities -> http://www.lastnightstudy.com/Show?id=37/Data-Mining-Functionalities#:~:text=Data%20mining%20functionalities%20are%20used,two%20categories%3A%20descriptive%20and%20predictive.&text=Predictive%20mining%20tasks%20perform%20inference,in%20order%20to%20make%20predictions.
+Classification of DM Systems-> https://www.tutorialspoint.com/data_mining/dm_systems.htm
+DM task primitives-> https://www.tutorialspoint.com/data_mining/dm_tasks.htm
+Integration of a Data Mining system with a Database or a Data Warehouse -> https://www.geeksforgeeks.org/data-integration-in-data-mining/
+data mining issue-> http://www.lastnightstudy.com/Show?id=36/Data-Mining-Issues
+
+ch-4
+y to pre-process data? ->https://www.geeksforgeeks.org/data-preprocessing-in-data-mining/
+Data cleaning ->darshan
+Data Integration and transformation->darshan
+Data Reduction:->https://www.geeksforgeeks.org/data-reduction-in-data-mining/
+Languages and System Architectures:-> http://admis.fudan.edu.cn/member/sgzhou/courses/data-mining-2006s/Lecture-4a-data%20mining%20primitives%20and%20others.pdf
+Discretization and Concept Hierarchy.->http://www.lastnightstudy.com/Show?id=45/Data-Discretization-and-Concept-Hierarchy-Generation
+
+ch-5
+What is concept description?-> https://www.datamining365.com/2020/02/data-generalization-summarization.html
+Attribute relevance ->https://www.datamining365.com/2020/02/analytical-characterization-data-mining.html
+class comparisons Association Rule Mining->https://www.slideshare.net/Tarang03/class-comparisions-association-rule
+market basket analysis-> https://youtu.be/tnotuNlv79o
+apriori-> https://youtu.be/WCK09hVXI9M
