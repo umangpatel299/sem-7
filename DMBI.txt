@@ -19,3 +19,31 @@ Attribute relevance ->https://www.datamining365.com/2020/02/analytical-character
 class comparisons Association Rule Mining->https://www.slideshare.net/Tarang03/class-comparisions-association-rule
 market basket analysis-> https://youtu.be/tnotuNlv79o
 apriori-> https://youtu.be/WCK09hVXI9M
+
+ch-6
+Classification methods: Decision tree, Bayesian Classification, Rule based,
+CART, Neural Network
+https://www.tutorialspoint.com/data_mining/dm_classification_prediction.htm
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_classification_algorithms_decision_tree.htm
+https://www.tutorialspoint.com/data_mining/dm_bayesian_classification.htm
+https://www.tutorialspoint.com/data_mining/dm_rbc.htm
+https://medium.com/@mathanrajsharma/fundamentals-of-classification-and-regression-trees-cart-e9af0b152503
+
+Prediction methods: Linear and nonlinear regression, Logistic Regression
+Introduction of tools such as DB Miner /WEKA/DTREG DM Tools
+->DARSHAN
+
+ch-7
+Data mining for business Applications like:
+https://www.tutorialspoint.com/management_concepts/the_balanced_scorecard.htm
+https://scialert.net/fulltext/?doi=itj.2011.710.716
+https://rudderstack.com/blog/data-mining-for-clickstream-analytics/
+https://customerthink.com/the-use-of-data-mining-in-market-segmentation-and-how-it-works-for-your-business/
+https://www.tutorialspoint.com/data_mining/dm_applications_trends.htm
+
+Data Analytics Life Cycle-> DARSHAN
+Key roles for successful analytic project-> DARSHAN
+
+Developing core deliverables for stakeholders.-> https://www.tutorialspoint.com/big_data_analytics/core_deliverables.htm
+
+
