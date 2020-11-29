@@ -1,0 +1,28 @@
+ch-1
+Symmetric Cipher Model-> http://www.brainkart.com/article/Symmetric-Cipher-Model_8386/#:~:text=Encryption%20algorithm%3A%20The%20encryption%20algorithm,and%20transformations%20on%20the%20plaintext.&text=A%20symmetric%20encryption%20scheme%20has%20five%20ingredients%20(Figure%202.1)%3A&text=Plaintext%3A%20This%20is%20the%20original,into%20the%20algorithm%20as%20input.
+Cryptography-> https://www.geeksforgeeks.org/cryptography-and-its-types/
+Cryptanalysis and Attacks-> https://www.experts-exchange.com/articles/12460/Cryptanalysis-and-Attacks.html
+                          ->https://www.tutorialspoint.com/cryptography/attacks_on_cryptosystems.htm
+
+Substitution and Transposition techniques-> https://www.geeksforgeeks.org/difference-between-substitution-cipher-technique-and-transposition-cipher-technique/
+
+ch-2
+Stream ciphers and block ciphers->https://www.tutorialspoint.com/cryptography/block_cipher.htm#:~:text=A%20block%20cipher%20takes%20a,up%20on%20the%20key%20length.
+                                ->https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm
+				->https://youtu.be/aGxdQxO0nEo
+				->https://youtu.be/dOKXCCwlwCk				 
+Block Cipher structure-> baki 
+Data Encryption standard (DES) with example-> https://www.tutorialspoint.com/cryptography/data_encryption_standard.htm
+					   -> https://youtu.be/8B1rN1rnTiU 
+strength of DES-> https://www.geeksforgeeks.org/strength-of-data-encryption-standard-des/
+Design principles of block cipher->https://www.geeksforgeeks.org/block-cipher-design-principles/
+ 
+AES ->https://youtu.be/o-MZgVJP-rI
+AES with structure->http://www.brainkart.com/article/AES(Advanced-Encryption-Standard)-Structure_8408/
+its transformation functions->http://www.brainkart.com/article/Advanced-Encryption-Standard(AES)-Transformation-Functions_8409/
+key expansion->http://www.brainkart.com/article/AES-Key-Expansion_8410/
+example and implementation-> darshan
+
+ch-3
+Multiple encryption and triple DES->https://www.brainkart.com/article/Multiple-Encryption-and-Triple-DES(Data-Encryption-Standard)_8414/
+modes->https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm
