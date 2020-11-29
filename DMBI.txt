@@ -16,20 +16,22 @@ Discretization and Concept Hierarchy.->http://www.lastnightstudy.com/Show?id=45/
 ch-5
 What is concept description?-> https://www.datamining365.com/2020/02/data-generalization-summarization.html
 Attribute relevance ->https://www.datamining365.com/2020/02/analytical-characterization-data-mining.html
-class comparisons Association Rule Mining->https://www.slideshare.net/Tarang03/class-comparisions-association-rule
 market basket analysis-> https://youtu.be/tnotuNlv79o
 apriori-> https://youtu.be/WCK09hVXI9M
+Improved apriori-> darshan
+class comparisons Association Rule Mining->https://www.slideshare.net/Tarang03/class-comparisions-association-rule
 
 ch-6
 Classification methods: Decision tree, Bayesian Classification, Rule based,
-CART, Neural Network
 https://www.tutorialspoint.com/data_mining/dm_classification_prediction.htm
 https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_classification_algorithms_decision_tree.htm
 https://www.tutorialspoint.com/data_mining/dm_bayesian_classification.htm
 https://www.tutorialspoint.com/data_mining/dm_rbc.htm
 https://medium.com/@mathanrajsharma/fundamentals-of-classification-and-regression-trees-cart-e9af0b152503
 
-Prediction methods: Linear and nonlinear regression, Logistic Regression
+CART, Neural Network->darshan Q-6,Q-3
+
+Prediction methods: Linear and nonlinear regression, Logistic Regression->darshan Q4,7
 Introduction of tools such as DB Miner /WEKA/DTREG DM Tools
 ->DARSHAN
 
@@ -40,6 +42,8 @@ https://scialert.net/fulltext/?doi=itj.2011.710.716
 https://rudderstack.com/blog/data-mining-for-clickstream-analytics/
 https://customerthink.com/the-use-of-data-mining-in-market-segmentation-and-how-it-works-for-your-business/
 https://www.tutorialspoint.com/data_mining/dm_applications_trends.htm
+
+
 
 Data Analytics Life Cycle-> DARSHAN
 Key roles for successful analytic project-> DARSHAN
