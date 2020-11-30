@@ -33,3 +33,11 @@ Requirements and Cryptanalysis-> darshan
 RSA-> https://youtu.be/rlJTMUBXhKE
 its computational aspects and security->darshan
 Diffi Hellman-> https://youtu.be/zLNug0LrFiU
+
+ch-5
+(DARSHAN)
+Cryptographic Hash Functions, their applications, Simple hash
+functions, its requirements and security, Hash functions based on
+Cipher Block Chaining,
+
+Secure Hash Algorithm (SHA)-> baki
