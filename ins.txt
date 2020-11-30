@@ -26,3 +26,10 @@ example and implementation-> darshan
 ch-3
 Multiple encryption and triple DES->https://www.brainkart.com/article/Multiple-Encryption-and-Triple-DES(Data-Encryption-Standard)_8414/
 modes->https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm
+
+ch-4
+Public Key Cryptosystems with Applications-> http://www.brainkart.com/article/Principles-of-Public-Key-Cryptosystems-and-its-Applications,-Requirements,-Cryptanalysis_8435/
+Requirements and Cryptanalysis-> darshan
+RSA-> https://youtu.be/rlJTMUBXhKE
+its computational aspects and security->darshan
+Diffi Hellman-> https://youtu.be/zLNug0LrFiU
