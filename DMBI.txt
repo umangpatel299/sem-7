@@ -51,3 +51,50 @@ Key roles for successful analytic project-> DARSHAN
 Developing core deliverables for stakeholders.-> https://www.tutorialspoint.com/big_data_analytics/core_deliverables.htm
 
 
+
+ch-8
+Clustering, Spatial mining, web mining, text mining->
+https://www.geeksforgeeks.org/clustering-in-machine-learning/
+https://www.techopedia.com/definition/30595/spatial-data-mining#:~:text=Spatial%20data%20mining%20is%20the,into%20relevant%20and%20useful%20formats.
+https://www.geeksforgeeks.org/web-mining/#:~:text=Web%20Mining%20is%20the%20process,Web%20and%20its%20usage%20patterns.
+https://www.javatpoint.com/text-data-mining
+
+introduction to big data: distributed file system->https://www.mindtory.com/an-introduction-to-distributed-file-system/
+
+Big Data and its importance->https://www.rd-alliance.org/group/big-data-ig-data-development-ig/wiki/big-data-definition-importance-examples-tools
+
+Four Vs->https://www.ibmbigdatahub.com/infographic/four-vs-big-data#:~:text=IBM%20data%20scientists%20break%20big,%2C%20variety%2C%20velocity%20and%20veracity.
+
+Drivers for Big data->https://analyticsweek.com/content/12-drivers-bigdata-analytics/
+
+Big data analytics->https://searchbusinessanalytics.techtarget.com/definition/big-data-analytics
+
+Big data applications->https://data-flair.training/blogs/big-data-applications/
+
+Algorithms using map reduce->https://www.analyticsvidhya.com/blog/2014/05/introduction-mapreduce/#:~:text=MapReduce%20is%20a%20programming%20model,used%20to%20handle%20big%20data.
+
+Matrix-Vector Multiplication by Map Reduce->https://www.geeksforgeeks.org/matrix-multiplication-with-1-mapreduce-step/
+
+Hadoop Architecture->https://www.javatpoint.com/what-is-hadoop
+
+Hadoop Storage: HDFS->https://www.edureka.co/blog/hdfs-tutorial   and https://www.tutorialspoint.com/hadoop/hadoop_hdfs_overview.htm
+
+Common Hadoop Shell commands->https://data-flair.training/blogs/top-hadoop-hdfs-commands-tutorial/
+
+Anatomy of File Write and Read->https://www.geeksforgeeks.org/anatomy-of-file-read-and-write-in-hdfs/
+
+NameNode, Secondary NameNode, and DataNode->https://www.netjstech.com/2018/02/namenode-datanode-and-secondary-namenode-hdfs-hadoop.html
+
+Hadoop MapReduce paradigm->https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm
+
+Map and Reduce tasks, Job->       -------
+Task trackers -Cluster Setup–            |
+SH & Hadoop Configuration->              |->aa badha puchay aevu lagtu nahi jo papers ma hase to kari dayishu
+HDFS Administering->                     |
+Monitoring & Maintenance->        -------
+
+
+
+
+
+
